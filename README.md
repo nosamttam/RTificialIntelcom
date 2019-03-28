@@ -1,0 +1,2 @@
+# RTificialIntelcom
+GitHub Pages
